@@ -1,7 +1,7 @@
 التقنيات المستخدمة
 - PHP 
 - MySQL
-- javascrpit,css,html
+- javascrpit,css
 - XAMPP لتشغيل السيرفر المحلي
 . طريقة التشغيل
 1. نزّل المشروع على جهازك.
@@ -13,4 +13,6 @@
 6. سجل الدخول باستخدام الحساب:(كمدير)
    - Username: admin
    - Password: admin
+  
+   
 فيني سجل دخول كمدير ودكتور وموظف كل منهم باستخدام username وpassword مختلفيين
